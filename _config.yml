@@ -1,0 +1,4 @@
+layout: index
+markdown_ext: "md"
+redcarpet:
+  extensions: []
