@@ -15,7 +15,7 @@ web presence, act as a point of contact, and shamelessly plug my
 Professionally, I tend to use Python to develop with data efficiently, but
 I consider myself a polyglot, proficient in C/C++, Haskell, Java, Clojure,
 Ruby, Javascript, FORTRAN77, and R. Sets of Languages I have combined using wrappers
-or FFIs include (Haskell, Javascript), (Clojure, Java), (Clojure, Javascript), (C++, Javascript)
+or FFIs include (Haskell, Javascript), (Clojure, Java), (Clojure, Javascript), (C++, Javascript),
 (C++, Java), and (Ruby, C).
 
 #Modelling, prediction, and learning
