@@ -4,7 +4,7 @@ title: Welcome
 ---
 ##Introduction
 
-Hello, my name is John, and I'm a data scientist and software engineer based in London, UK. In the past, I cofounded BeHiring, and worked at Reevoo, Boppl, Juper, AMEE, and Zoaring Adaptive X. At the moment, I am an independent consulting data scientist [available for hire](mailto:hello@sententiaexdata.com).
+Hello, my name is John, and I'm a data scientist and software engineer based in London, UK. In the past, I cofounded BeHiring, and worked at Reevoo, Boppl, Juper, AMEE, and Zoaring Adaptive X. At the moment, I am an independent consulting data scientist [available for hire](mailto:hello@sententiaexdata.com). I run [Data Science Clinic London](http://www.meetup.com/data-science-clinic-london/events/224831227/), London's first and only data science help session.
 
 I'm going to use this blog to showcase my side projects, establish some
 web presence, act as a point of contact, and shamelessly plug my
@@ -15,7 +15,7 @@ web presence, act as a point of contact, and shamelessly plug my
 Professionally, I tend to use Python to develop with data efficiently, but
 I consider myself a polyglot, proficient in C/C++, Haskell, Java, Clojure,
 Ruby, Javascript, FORTRAN77, and R. Sets of Languages I have combined using wrappers
-or FFIs include (Haskell, Javascript), (Clojure, Java), (Clojure, Javascript),
+or FFIs include (Haskell, Javascript), (Clojure, Java), (Clojure, Javascript), (C++, Javascript)
 (C++, Java), and (Ruby, C).
 
 #Modelling, prediction, and learning
