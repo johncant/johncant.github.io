@@ -22,5 +22,12 @@ I self-host quite a lot of things from inside my house.
 
 To me, this involves curiosity, creativity, pushing technological limits, problem solving, enjoying building stuff, outside the box, pragmatism, and meritocracy.
 
+# Posts
 
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

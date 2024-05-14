@@ -270,6 +270,7 @@ GEM
     unf_ext (0.0.9.1)
     unicode-display_width (1.8.0)
     uri (0.13.0)
+    webrick (1.8.1)
 
 PLATFORMS
   aarch64-linux
@@ -280,9 +281,11 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  base64
   github-pages (= 231)
   jekyll
   redcarpet
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.5.4
